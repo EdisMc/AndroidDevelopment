@@ -1,1 +1,1 @@
-# AndroidDevelopment
+Android Development - exercises, tutorials etc.
