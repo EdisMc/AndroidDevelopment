@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="number_hint">Put a number</string>
+    <string name="number2_hint">Put a second number</string>
+    <string name="result">Result</string>
+    <string name="result_view">The result is</string>
+    <string name="not_empty">Fill both the fields!</string>
+</resources>
